@@ -99,4 +99,4 @@ Update the placeholder `OWNER/REPO` in the build badge URL after pushing to GitH
 ### Acknowledgements
 
 - Built with Vite and React
-- Markdown rendering via `react-markdown` with `remark-gfm` and `remark-breaks`
+- Markdown rendering via `react-markdown` with `remark-gfm` and `remark-breaks
